@@ -5,3 +5,7 @@ Lista de Vengadores:
 4 Capitan América
 5 Hawkeye	
 6 BlackWidow
+7
+8
+9
+10
