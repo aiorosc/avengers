@@ -1,7 +1,11 @@
 Lista de Vengadores:
 1 IronMan
-2
-3
-4
-5
-6
+2 Thor
+3 Hulk
+4 Capitan América
+5 Hawkeye	
+6 BlackWidow
+7
+8
+9
+10
